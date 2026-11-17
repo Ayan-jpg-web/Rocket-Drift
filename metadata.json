@@ -1,0 +1,6 @@
+{
+  "name": "Rocket League UE6 Windows 11 Edition",
+  "description": "A 1:1 Rocket League vehicular soccer experience powered by an Unreal Engine 6-inspired PBR rendering pipeline inside a native Windows 11 desktop application shell, featuring the iconic Octane battle-car and DFH Stadium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
